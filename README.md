@@ -7,7 +7,7 @@ Interface for adding a player profile with optional stats
 ![interface](https://cdn.discordapp.com/attachments/799791712993673236/799792353610432522/unknown.png)
 Layout for setting up a match. User can select who to play against who and decide the format
 ![matchLayout](https://cdn.discordapp.com/attachments/799791712993673236/799792714832674816/unknown.png)
-User interfact to enter match results
+User interface to enter match results
 ![selectPlayers](https://cdn.discordapp.com/attachments/799791712993673236/799793457002446878/unknown.png)
 Opening specific player profile. Option to upload image. Currently displaying default image
 ![playerProfiles](https://cdn.discordapp.com/attachments/799791712993673236/799793537360068648/unknown.png)
