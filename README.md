@@ -3,7 +3,7 @@ Simple Badminton score tracking project to complement tournaments for my Grade 1
 
 ##### Table of Contents  
 [Demo](#headers)
-[Screenshots] (#screenshots)
+[Screenshots](#screenshots)
   
 <a name="headers"/>
 ## Demo
