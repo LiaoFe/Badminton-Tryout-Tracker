@@ -8,7 +8,7 @@ Simple Badminton score tracking project to complement tournaments for my Grade 1
 
 ### Demo <a name="headers"/>
 
-<a href="https://youtu.be/S6ldQfw467s
+<a href="https://youtu.be/bAKS6T-ahsU
 " target="_blank">Youtube Demo</a>
 
 ### Screenshots <a name="screenshots"/>
