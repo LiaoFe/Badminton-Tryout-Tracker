@@ -2,12 +2,15 @@
 Simple Badminton score tracking project to complement tournaments for my Grade 12 ICS course. Players gain points by winning matches, each player
 
 ##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
+[Demo](#headers)
+[Screenshots] (#screenshots)
+  
 <a name="headers"/>
-## Headers
+## Demo
 
+
+<a name="screenshots"/>
+## Screenshots
 
 ![menu](https://cdn.discordapp.com/attachments/799791712993673236/799791764999110666/unknown.png)
 Interface for adding a player profile with optional stats
