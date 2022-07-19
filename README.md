@@ -2,8 +2,8 @@
 Simple Badminton score tracking project to complement tournaments for my Grade 12 ICS course. Players gain points by winning matches, each player
 
 ##### Table of Contents  
-[Demo](#headers) 
-[Screenshots](#screenshots) 
+[Demo](#headers)  
+[Screenshots](#screenshots)  
   
 <a name="headers"/>
 ## Demo 
